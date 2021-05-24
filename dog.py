@@ -6,5 +6,6 @@ class Dog:
          return f"My dog's name is {self.name}" 
     def eat(self):
         return f"My black's dog is eating{self.color}"
+        
 
     
